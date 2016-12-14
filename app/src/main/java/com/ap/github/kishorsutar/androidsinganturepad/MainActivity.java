@@ -24,6 +24,9 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.OutputStream;
 
+/**
+ * This is sample activity, which shows how to use the signature pad view.
+ */
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
 
