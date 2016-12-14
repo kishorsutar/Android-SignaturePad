@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/kishorsutar/Developer/Android/AndroidSignature_20161213/AndroidSinganturePad/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/kishorsutar/Developer/Android/AndroidSignature_20161213/AndroidSinganturePad/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_e3cecad316bc5b34e8cb1dbefe14915b49f450b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kishorsutar/Developer/Android/AndroidSignature_20161213/AndroidSinganturePad/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/kishorsutar/Developer/Android/AndroidSignature_20161213/AndroidSinganturePad/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_80a36fae53fac46fe00957f6609c65b4e0e757d9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kishorsutar/Developer/Android/AndroidSinganturePad/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/kishorsutar/Developer/Android/AndroidSinganturePad/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_8d812c9cb234731f7dcc6d182c420911663d912f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kishorsutar/Developer/Android/AndroidSinganturePad/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/kishorsutar/Developer/Android/AndroidSinganturePad/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_6a1b1c442506511395b1fad31eaf589a99ca1b54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kishorsutar/Developer/Android/AndroidSinganturePad/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8bd6a8394dd951b99402f73431bd18f1a1af18d3">
+        <dex dex="/Users/kishorsutar/Developer/Android/AndroidSinganturePad/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fda9b0da1e30af4a7008bbabf2d1efc23bd16be8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kishorsutar/Developer/Android/AndroidSinganturePad/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/kishorsutar/Developer/Android/AndroidSinganturePad/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_2b0b8a02f748df3c14a38f01ef55d143250111e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kishorsutar/Developer/Android/AndroidSinganturePad/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/kishorsutar/Developer/Android/AndroidSinganturePad/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_27c217ade468df5512e86f0b6623d67f4753b66b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kishorsutar/Developer/Android/AndroidSignature_20161213/AndroidSinganturePad/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/kishorsutar/Developer/Android/AndroidSignature_20161213/AndroidSinganturePad/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_aae0ced196d6c59cd6b20c57a55649bd4584da46.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kishorsutar/Developer/Android/AndroidSinganturePad/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/kishorsutar/Developer/Android/AndroidSinganturePad/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_7e55a577370735db1dcd726e3342c1d1b15db7b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kishorsutar/Developer/Android/AndroidSignature_20161213/AndroidSinganturePad/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/kishorsutar/Developer/Android/AndroidSignature_20161213/AndroidSinganturePad/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_2fb21ba8394263b746aaddcc921da99bd9f348fc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kishorsutar/Developer/Android/AndroidSinganturePad/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/kishorsutar/Developer/Android/AndroidSinganturePad/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d4f95778a2992ca30f9d6651e854c86fa4086b9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kishorsutar/Developer/Android/AndroidSignature_20161213/AndroidSinganturePad/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/kishorsutar/Developer/Android/AndroidSignature_20161213/AndroidSinganturePad/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_17363fec741f2c69677618c0ac95979223df68cd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kishorsutar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/kishorsutar/Developer/Android/AndroidSinganturePad/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_f4b589a356bdfa984bb307922a986baadf55f421/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kishorsutar/Developer/Android/AndroidSignature_20161213/AndroidSinganturePad/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/kishorsutar/Developer/Android/AndroidSignature_20161213/AndroidSinganturePad/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_646a652949b0220ec3245ec749af1e4b14f874df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kishorsutar/Developer/Android/AndroidSignature_20161213/AndroidSinganturePad/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/kishorsutar/Developer/Android/AndroidSignature_20161213/AndroidSinganturePad/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_b18c996c7f9ab365d77e438d0ecb362cc7cb737e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kishorsutar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/kishorsutar/Developer/Android/AndroidSignature_20161213/AndroidSinganturePad/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_f4b589a356bdfa984bb307922a986baadf55f421.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kishorsutar/Developer/Android/AndroidSignature_20161213/AndroidSinganturePad/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/kishorsutar/Developer/Android/AndroidSignature_20161213/AndroidSinganturePad/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_063763b75869fd8159d1f12d3d874aff47dfb409.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kishorsutar/Developer/Android/AndroidSinganturePad/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/kishorsutar/Developer/Android/AndroidSinganturePad/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1fb4b6a2fc5516261da8ed631c8859c3758ed8fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kishorsutar/Developer/Android/AndroidSinganturePad/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/kishorsutar/Developer/Android/AndroidSinganturePad/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_528f137c9e773e75fc8d250fa4f67bfc9bace944/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kishorsutar/Developer/Android/AndroidSinganturePad/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/kishorsutar/Developer/Android/AndroidSinganturePad/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f064e510cf263e2ff48df9ce0c1dc53f6b39ca35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kishorsutar/Developer/Android/AndroidSinganturePad/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/kishorsutar/Developer/Android/AndroidSinganturePad/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_a38938557c559e2bff7d2d90659069902b4befae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kishorsutar/Developer/Android/AndroidSinganturePad/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/kishorsutar/Developer/Android/AndroidSinganturePad/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ead78da28dfa2d01e2a84d4ea6e49c3f35e63bf1/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kishorsutar/Developer/Android/AndroidSignature_20161213/AndroidSinganturePad/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/kishorsutar/Developer/Android/AndroidSignature_20161213/AndroidSinganturePad/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_cb166f31c97aaa0198af222309889eb1db523606.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kishorsutar/Developer/Android/AndroidSignature_20161213/AndroidSinganturePad/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/kishorsutar/Developer/Android/AndroidSignature_20161213/AndroidSinganturePad/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_fa01d89c27d6f5385818b90d2599cd44d8542cc2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kishorsutar/Developer/Android/AndroidSinganturePad/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/kishorsutar/Developer/Android/AndroidSinganturePad/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_0cec71afd80d9f8dd5df90f6ea601f501477e41d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kishorsutar/Developer/Android/AndroidSinganturePad/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9dd605901d57baab046934aff2c96eccbbe4a388">
+        <dex dex="/Users/kishorsutar/Developer/Android/AndroidSinganturePad/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_db69c97ec3e23048a4df51be9d176a63a025c764/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kishorsutar/Developer/Android/AndroidSinganturePad/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/kishorsutar/Developer/Android/AndroidSinganturePad/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_9460f43c3996540dae13e2133064f82efb2eea47/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kishorsutar/Developer/Android/AndroidSignature_20161213/AndroidSinganturePad/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/kishorsutar/Developer/Android/AndroidSignature_20161213/AndroidSinganturePad/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_4fb625a69f8e7f1a6460a6049c85c833c80f00b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kishorsutar/Developer/Android/AndroidSignature_20161213/AndroidSinganturePad/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/kishorsutar/Developer/Android/AndroidSignature_20161213/AndroidSinganturePad/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_db72be41361ed487243d0e1cbd69c9ac5baebe63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kishorsutar/Developer/Android/AndroidSignature_20161213/AndroidSinganturePad/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/kishorsutar/Developer/Android/AndroidSignature_20161213/AndroidSinganturePad/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_d625d5442b74e444d28c487f995a4f0dad6383ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kishorsutar/Developer/Android/AndroidSignature_20161213/AndroidSinganturePad/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/kishorsutar/Developer/Android/AndroidSignature_20161213/AndroidSinganturePad/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_61436c62b0e03f63263ad3a59c3e395991978cee.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kishorsutar/Developer/Android/AndroidSinganturePad/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/kishorsutar/Developer/Android/AndroidSinganturePad/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_e794377e973155321ac45a37958d2c6c922f8822/classes.dex" />
+    </item>
+
+</items>

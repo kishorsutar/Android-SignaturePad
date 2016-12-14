@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SignatureView">
+        <attr name="penMinWidth" format="dimension"></attr>
+        <attr name="penMaxWidth" format="dimension"></attr>
+        <attr name="penColor" format="color"></attr>
+        <attr name="velocityFilterWeight" format="float"></attr>
+        <attr name="clearOnDoubleClick" format="boolean"></attr>
+</declare-styleable>
+</resources>
