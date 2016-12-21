@@ -16,7 +16,7 @@ Create View object inside your xml file
         android:layout_marginTop="20dp"
         android:layout_below="@+id/intro_text"
         />
-        ```
+
 
         After that, create SignatureView object and use as per your requirement.
 
